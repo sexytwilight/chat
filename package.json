@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "0.0.0",
+  "description": "WARNING: Experimental new f-chat client.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sexytwilight/chat.git"
+  },
+  "author": "Twilight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sexytwilight/chat/issues"
+  },
+  "homepage": "https://sexytwilight.github.io/chat/",
+  "devDependencies": {
+    "cjsx-loader": "^2.1.0",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "vo": "^1.0.3",
+    "webpack": "^1.12.10"
+  }
+}
